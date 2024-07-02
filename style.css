@@ -1,0 +1,27 @@
+.navbar-brand{
+    margin-left: 30px;
+    font-size: bolder;
+}
+
+.nav-item:first-child{
+    margin-left: 200%;
+}
+
+.nav-item{
+    
+    font-size: 15px;
+}
+
+.about {
+    margin-top: 60px;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+
+.svg {
+    margin-top: 100px;
+}
